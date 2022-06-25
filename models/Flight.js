@@ -1,1 +1,3 @@
 exports.exampleModel = [];
+
+exports.flight = [];

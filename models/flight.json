@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "date": "2022-06-25T08:23:09.082Z",
+    "title": "flight to Phillipi",
+    "time": "1pm",
+    "price": 26000
+  },
+  {
+    "id": 1,
+    "date": "2022-06-25T08:23:28.474Z",
+    "title": "flight to Canaan",
+    "time": "1pm",
+    "price": 26000
+  }
+]
